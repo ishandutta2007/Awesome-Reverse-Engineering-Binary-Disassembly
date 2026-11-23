@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-squarel&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Reverse-Engineering-Binary-Disassembly/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Reverse-Engineering-Binary-Disassembly?style=social" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Reverse-Engineering-Binary-Disassembly/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Reverse-Engineering-Binary-Disassembly?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Reverse-Engineering-Binary-Disassembly/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Reverse-Engineering-Binary-Disassembly?style=social" alt="GitHub forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Reverse-Engineering-Binary-Disassembly/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Reverse-Engineering-Binary-Disassembly?style=flat-square" alt="GitHub issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Reverse-Engineering-Binary-Disassembly/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -64,94 +64,94 @@ The global software reverse engineering and binary analysis sector is estimated 
 
 *Curated top-tier open-source reverse engineering frameworks, decompilers, debuggers, and binary utilities sorted in descending order of GitHub stargazers.*
 
-- **[Ghidra](https://github.com/NationalSecurityAgency/ghidra)** [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=social&color=white)](https://github.com/NationalSecurityAgency/ghidra/stargazers)  
+- **[Ghidra](https://github.com/NationalSecurityAgency/ghidra)** [![GitHub_Stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=social&color=white)](https://github.com/NationalSecurityAgency/ghidra/stargazers)  
   Flagship software reverse engineering (SRE) suite developed by the NSA. Features a multi-architecture decompilation engine, collaborative server workflows, SLEIGH processor specification language, P-Code intermediate representation, and extensive Java/Python plugin APIs.
 
-- **[ImHex](https://github.com/WerWolv/ImHex)** [![GitHub stars](https://img.shields.io/github/stars/WerWolv/ImHex?style=social&color=white)](https://github.com/WerWolv/ImHex/stargazers)  
+- **[ImHex](https://github.com/WerWolv/ImHex)** [![GitHub_Stars](https://img.shields.io/github/stars/WerWolv/ImHex?style=social&color=white)](https://github.com/WerWolv/ImHex/stargazers)  
   Modern, feature-packed hex editor tailored specifically for reverse engineers and low-level programmers. Boasts a custom C-like pattern language for structural file parsing, built-in disassembler, math evaluator, entropy analyzer, and YARA integration.
 
-- **[JADX](https://github.com/skylot/jadx)** [![GitHub stars](https://img.shields.io/github/stars/skylot/jadx?style=social&color=white)](https://github.com/skylot/jadx/stargazers)  
+- **[JADX](https://github.com/skylot/jadx)** [![GitHub_Stars](https://img.shields.io/github/stars/skylot/jadx?style=social&color=white)](https://github.com/skylot/jadx/stargazers)  
   Dex to Java decompiler offering command-line and rich GUI interfaces. Facilitates instant decompilation of Android APK, DEX, AAR, and class bytecode files with deobfuscation and resource decoding.
 
-- **[x64dbg](https://github.com/x64dbg/x64dbg)** [![GitHub stars](https://img.shields.io/github/stars/x64dbg/x64dbg?style=social&color=white)](https://github.com/x64dbg/x64dbg/stargazers)  
+- **[x64dbg](https://github.com/x64dbg/x64dbg)** [![GitHub_Stars](https://img.shields.io/github/stars/x64dbg/x64dbg?style=social&color=white)](https://github.com/x64dbg/x64dbg/stargazers)  
   Premier open-source x64/x32 user-mode dynamic debugger for Microsoft Windows. Integrates Scylla import reconstruction, memory memory breakpoint handling, disassembly views, and an extensive C++/Python plugin ecosystem.
 
-- **[ILSpy](https://github.com/icsharpcode/ILSpy)** [![GitHub stars](https://img.shields.io/github/stars/icsharpcode/ILSpy?style=social&color=white)](https://github.com/icsharpcode/ILSpy/stargazers)  
+- **[ILSpy](https://github.com/icsharpcode/ILSpy)** [![GitHub_Stars](https://img.shields.io/github/stars/icsharpcode/ILSpy?style=social&color=white)](https://github.com/icsharpcode/ILSpy/stargazers)  
   Standard open-source .NET assembly browser and decompiler. Decompiles C# assemblies back to high-fidelity source code with cross-platform support via ICSharpCode.Decompiler and Avalonia ILSpy.
 
-- **[Radare2](https://github.com/radareorg/radare2)** [![GitHub stars](https://img.shields.io/github/stars/radareorg/radare2?style=social&color=white)](https://github.com/radareorg/radare2/stargazers)  
+- **[Radare2](https://github.com/radareorg/radare2)** [![GitHub_Stars](https://img.shields.io/github/stars/radareorg/radare2?style=social&color=white)](https://github.com/radareorg/radare2/stargazers)  
   Ultra-portable, Unix-like command-line reverse engineering framework, disassembler, hex editor, dynamic debugger, and binary analyzer covering virtually every known CPU architecture and OS platform.
 
-- **[Frida](https://github.com/frida/frida)** [![GitHub stars](https://img.shields.io/github/stars/frida/frida?style=social&color=white)](https://github.com/frida/frida/stargazers)  
+- **[Frida](https://github.com/frida/frida)** [![GitHub_Stars](https://img.shields.io/github/stars/frida/frida?style=social&color=white)](https://github.com/frida/frida/stargazers)  
   Dynamic binary instrumentation toolkit for security researchers. Injects JavaScript/C hooks into native apps on Windows, macOS, Linux, iOS, Android, and QNX to observe and alter runtime logic in real time.
 
-- **[Cutter](https://github.com/rizinorg/cutter)** [![GitHub stars](https://img.shields.io/github/stars/rizinorg/cutter?style=social&color=white)](https://github.com/rizinorg/cutter/stargazers)  
+- **[Cutter](https://github.com/rizinorg/cutter)** [![GitHub_Stars](https://img.shields.io/github/stars/rizinorg/cutter?style=social&color=white)](https://github.com/rizinorg/cutter/stargazers)  
   Free, user-friendly Qt-based GUI reverse engineering platform powered by Rizin. Integrates Ghidra's decompiler, disassembly graphing, hex editing, dynamic debugging, and Python scripting.
 
-- **[Binwalk](https://github.com/ReFirmLabs/binwalk)** [![GitHub stars](https://img.shields.io/github/stars/ReFirmLabs/binwalk?style=social&color=white)](https://github.com/ReFirmLabs/binwalk/stargazers)  
+- **[Binwalk](https://github.com/ReFirmLabs/binwalk)** [![GitHub_Stars](https://img.shields.io/github/stars/ReFirmLabs/binwalk?style=social&color=white)](https://github.com/ReFirmLabs/binwalk/stargazers)  
   Fast firmware extraction and reverse engineering tool engineered to scan raw binary images, detect embedded filesystems (SquashFS, CramFS, JFFS2), and extract compressed code blobs.
 
-- **[dnSpyEx](https://github.com/dnSpyEx/dnSpy)** [![GitHub stars](https://img.shields.io/github/stars/dnSpyEx/dnSpy?style=social&color=white)](https://github.com/dnSpyEx/dnSpy/stargazers)  
+- **[dnSpyEx](https://github.com/dnSpyEx/dnSpy)** [![GitHub_Stars](https://img.shields.io/github/stars/dnSpyEx/dnSpy?style=social&color=white)](https://github.com/dnSpyEx/dnSpy/stargazers)  
   Revived community fork of the renowned dnSpy .NET debugger and assembly editor. Allows live modification and debugging of compiled .NET assemblies directly inside memory without requiring original source code.
 
-- **[pwndbg](https://github.com/pwndbg/pwndbg)** [![GitHub stars](https://img.shields.io/github/stars/pwndbg/pwndbg?style=social&color=white)](https://github.com/pwndbg/pwndbg/stargazers)  
+- **[pwndbg](https://github.com/pwndbg/pwndbg)** [![GitHub_Stars](https://img.shields.io/github/stars/pwndbg/pwndbg?style=social&color=white)](https://github.com/pwndbg/pwndbg/stargazers)  
   Exploit development and binary reverse engineering framework for GDB. Replaces vanilla GDB with an informative terminal UI displaying registers, stack frames, heap allocations, and memory mappings.
 
-- **[Unicorn Engine](https://github.com/unicorn-engine/unicorn)** [![GitHub stars](https://img.shields.io/github/stars/unicorn-engine/unicorn?style=social&color=white)](https://github.com/unicorn-engine/unicorn/stargazers)  
+- **[Unicorn Engine](https://github.com/unicorn-engine/unicorn)** [![GitHub_Stars](https://img.shields.io/github/stars/unicorn-engine/unicorn?style=social&color=white)](https://github.com/unicorn-engine/unicorn/stargazers)  
   Lightweight multi-architecture CPU emulator framework based on QEMU. Emulates ARM, ARM64, MIPS, x86, SPARC, and RISC-V machine instructions with memory hooks and register tracing.
 
-- **[angr](https://github.com/angr/angr)** [![GitHub stars](https://img.shields.io/github/stars/angr/angr?style=social&color=white)](https://github.com/angr/angr/stargazers)  
+- **[angr](https://github.com/angr/angr)** [![GitHub_Stars](https://img.shields.io/github/stars/angr/angr?style=social&color=white)](https://github.com/angr/angr/stargazers)  
   Python framework for analyzing binaries combining static analysis, symbolic execution, control-flow recovery, and automated vulnerability synthesis using the angr decompiler and Claripy SMT solver.
 
-- **[Capstone Engine](https://github.com/capstone-engine/capstone)** [![GitHub stars](https://img.shields.io/github/stars/capstone-engine/capstone?style=social&color=white)](https://github.com/capstone-engine/capstone/stargazers)  
+- **[Capstone Engine](https://github.com/capstone-engine/capstone)** [![GitHub_Stars](https://img.shields.io/github/stars/capstone-engine/capstone?style=social&color=white)](https://github.com/capstone-engine/capstone/stargazers)  
   The industry's ultimate lightweight multi-platform, multi-architecture disassembly framework. Powers hundreds of security utilities with support for x86, ARM, ARM64, MIPS, PowerPC, SPARC, and RISC-V.
 
-- **[RetDec](https://github.com/avast/retdec)** [![GitHub stars](https://img.shields.io/github/stars/avast/retdec?style=social&color=white)](https://github.com/avast/retdec/stargazers)  
+- **[RetDec](https://github.com/avast/retdec)** [![GitHub_Stars](https://img.shields.io/github/stars/avast/retdec?style=social&color=white)](https://github.com/avast/retdec/stargazers)  
   Open-source retargetable machine-code decompiler based on LLVM. Recovers high-level C code from ELF, PE, Mach-O, COFF, and raw firmware binaries across x86, ARM, MIPS, and PowerPC.
 
-- **[GEF (GDB Enhanced Features)](https://github.com/hugsy/gef)** [![GitHub stars](https://img.shields.io/github/stars/hugsy/gef?style=social&color=white)](https://github.com/hugsy/gef/stargazers)  
+- **[GEF (GDB Enhanced Features)](https://github.com/hugsy/gef)** [![GitHub_Stars](https://img.shields.io/github/stars/hugsy/gef?style=social&color=white)](https://github.com/hugsy/gef/stargazers)  
   Modern Python extension for GDB aimed at dynamic binary reverse engineering, security researchers, and exploit developers with heap analysis and architecture visualization.
 
-- **[capa](https://github.com/mandiant/capa)** [![GitHub stars](https://img.shields.io/github/stars/mandiant/capa?style=social&color=white)](https://github.com/mandiant/capa/stargazers)  
+- **[capa](https://github.com/mandiant/capa)** [![GitHub_Stars](https://img.shields.io/github/stars/mandiant/capa?style=social&color=white)](https://github.com/mandiant/capa/stargazers)  
   Open-source tool by Mandiant that automatically detects capabilities and intent in executable files (PE, ELF, Mach-O), mapping behaviors against the MITRE ATT&CK framework.
 
-- **[pycdc (Decompyle++)](https://github.com/zrax/pycdc)** [![GitHub stars](https://img.shields.io/github/stars/zrax/pycdc?style=social&color=white)](https://github.com/zrax/pycdc/stargazers)  
+- **[pycdc (Decompyle++)](https://github.com/zrax/pycdc)** [![GitHub_Stars](https://img.shields.io/github/stars/zrax/pycdc?style=social&color=white)](https://github.com/zrax/pycdc/stargazers)  
   High-performance C++ Python bytecode disassembler and decompiler capable of analyzing compiled `.pyc` files across Python versions up to Python 3.12+.
 
-- **[Diaphora](https://github.com/joxeankoret/diaphora)** [![GitHub stars](https://img.shields.io/github/stars/joxeankoret/diaphora?style=social&color=white)](https://github.com/joxeankoret/diaphora/stargazers)  
+- **[Diaphora](https://github.com/joxeankoret/diaphora)** [![GitHub_Stars](https://img.shields.io/github/stars/joxeankoret/diaphora?style=social&color=white)](https://github.com/joxeankoret/diaphora/stargazers)  
   The leading open-source program diffing engine implemented as an IDA Pro / Ghidra / Binary Ninja plugin for diffing patched and unpatched binaries to uncover vulnerability fixes.
 
-- **[Triton DBA](https://github.com/JonathanSalwan/Triton)** [![GitHub stars](https://img.shields.io/github/stars/JonathanSalwan/Triton?style=social&color=white)](https://github.com/JonathanSalwan/Triton/stargazers)  
+- **[Triton DBA](https://github.com/JonathanSalwan/Triton)** [![GitHub_Stars](https://img.shields.io/github/stars/JonathanSalwan/Triton?style=social&color=white)](https://github.com/JonathanSalwan/Triton/stargazers)  
   Dynamic Binary Analysis (DBA) framework providing taint analysis, dynamic symbolic execution (DSE), AST representations of instructions, and automated SMT constraint solving.
 
-- **[uncompyle6](https://github.com/rocky/python-uncompyle6)** [![GitHub stars](https://img.shields.io/github/stars/rocky/python-uncompyle6?style=social&color=white)](https://github.com/rocky/python-uncompyle6/stargazers)  
+- **[uncompyle6](https://github.com/rocky/python-uncompyle6)** [![GitHub_Stars](https://img.shields.io/github/stars/rocky/python-uncompyle6?style=social&color=white)](https://github.com/rocky/python-uncompyle6/stargazers)  
   Native Python cross-version decompiler translating Python byte-code back into equivalent Python source code, supporting legacy and modern Python releases.
 
-- **[FLOSS (Mandiant)](https://github.com/mandiant/flare-floss)** [![GitHub stars](https://img.shields.io/github/stars/mandiant/flare-floss?style=social&color=white)](https://github.com/mandiant/flare-floss/stargazers)  
+- **[FLOSS (Mandiant)](https://github.com/mandiant/flare-floss)** [![GitHub_Stars](https://img.shields.io/github/stars/mandiant/flare-floss?style=social&color=white)](https://github.com/mandiant/flare-floss/stargazers)  
   FLARE Obfuscated String Solver using advanced static analysis and emulation to automatically extract obfuscated strings, stackstrings, and tight-loop decoded artifacts from malware binaries.
 
-- **[Rizin](https://github.com/rizinorg/rizin)** [![GitHub stars](https://img.shields.io/github/stars/rizinorg/rizin?style=social&color=white)](https://github.com/rizinorg/rizin/stargazers)  
+- **[Rizin](https://github.com/rizinorg/rizin)** [![GitHub_Stars](https://img.shields.io/github/stars/rizinorg/rizin?style=social&color=white)](https://github.com/rizinorg/rizin/stargazers)  
   UNIX-like reverse engineering framework and binary analysis tool focused on modularity, clean architecture, automated testing, and headless scripting pipelines.
 
-- **[Dogbolt Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer)** [![GitHub stars](https://img.shields.io/github/stars/decompiler-explorer/decompiler-explorer?style=social&color=white)](https://github.com/decompiler-explorer/decompiler-explorer/stargazers)  
+- **[Dogbolt Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer)** [![GitHub_Stars](https://img.shields.io/github/stars/decompiler-explorer/decompiler-explorer?style=social&color=white)](https://github.com/decompiler-explorer/decompiler-explorer/stargazers)  
   The full open-source web application behind dogbolt.org, allowing side-by-side multi-decompiler execution and output exploration in Docker.
 
-- **[Keystone Engine](https://github.com/keystone-engine/keystone)** [![GitHub stars](https://img.shields.io/github/stars/keystone-engine/keystone?style=social&color=white)](https://github.com/keystone-engine/keystone/stargazers)  
+- **[Keystone Engine](https://github.com/keystone-engine/keystone)** [![GitHub_Stars](https://img.shields.io/github/stars/keystone-engine/keystone?style=social&color=white)](https://github.com/keystone-engine/keystone/stargazers)  
   Lightweight multi-platform, multi-architecture assembler framework supporting x86, ARM, ARM64, MIPS, PowerPC, and SPARC assembly with clean C/Python bindings.
 
-- **[Reko Decompiler](https://github.com/uxmal/reko)** [![GitHub stars](https://img.shields.io/github/stars/uxmal/reko?style=social&color=white)](https://github.com/uxmal/reko/stargazers)  
+- **[Reko Decompiler](https://github.com/uxmal/reko)** [![GitHub_Stars](https://img.shields.io/github/stars/uxmal/reko?style=social&color=white)](https://github.com/uxmal/reko/stargazers)  
   Multi-architecture machine code decompiler written in C# designed to recover high-level source code from archaic and contemporary executable formats.
 
-- **[APKiD](https://github.com/rednaga/APKiD)** [![GitHub stars](https://img.shields.io/github/stars/rednaga/APKiD?style=social&color=white)](https://github.com/rednaga/APKiD/stargazers)  
+- **[APKiD](https://github.com/rednaga/APKiD)** [![GitHub_Stars](https://img.shields.io/github/stars/rednaga/APKiD?style=social&color=white)](https://github.com/rednaga/APKiD/stargazers)  
   PEiD-style identifier for Android applications, detecting commercial packers, obfuscators, anti-debugging mechanisms, and third-party native libraries inside APK files.
 
-- **[Quark-Engine](https://github.com/quark-engine/quark-engine)** [![GitHub stars](https://img.shields.io/github/stars/quark-engine/quark-engine?style=social&color=white)](https://github.com/quark-engine/quark-engine/stargazers)  
+- **[Quark-Engine](https://github.com/quark-engine/quark-engine)** [![GitHub_Stars](https://img.shields.io/github/stars/quark-engine/quark-engine?style=social&color=white)](https://github.com/quark-engine/quark-engine/stargazers)  
   Trustworthy Android malware scoring system and behavioral inspection engine that extracts Dalvik bytecode opcodes to evaluate security risks and suspicious flows.
 
-- **[Manalyze](https://github.com/JusticeRage/Manalyze)** [![GitHub stars](https://img.shields.io/github/stars/JusticeRage/Manalyze?style=social&color=white)](https://github.com/JusticeRage/Manalyze/stargazers)  
+- **[Manalyze](https://github.com/JusticeRage/Manalyze)** [![GitHub_Stars](https://img.shields.io/github/stars/JusticeRage/Manalyze?style=social&color=white)](https://github.com/JusticeRage/Manalyze/stargazers)  
   Static PE executable analyzer for Windows detecting malicious indicators, compiler origins, cryptographic algorithms, PE anomalies, and suspicious API imports.
 
-- **[Gecko](https://github.com/ioncodes/gecko)** [![GitHub stars](https://img.shields.io/github/stars/ioncodes/gecko?style=social&color=white)](https://github.com/ioncodes/gecko/stargazers)  
+- **[Gecko](https://github.com/ioncodes/gecko)** [![GitHub_Stars](https://img.shields.io/github/stars/ioncodes/gecko?style=social&color=white)](https://github.com/ioncodes/gecko/stargazers)  
   Fast binary inspection utility built for low-level binary exploration, opcode decoding, and interactive disassembling.
 
 ---
@@ -205,3 +205,12 @@ Thank you to all security analysts, reverse engineers, vulnerability researchers
 - This is a **community-curated directory** provided for educational, security research, and defensive software auditing purposes.
 - **Malware & Operational Safety Notice**: Always execute and reverse-engineer unknown or suspected malicious binaries inside air-gapped, isolated virtual machines (such as snapshot-enabled QEMU/KVM or VMware) with outbound network egress disabled or routed strictly through an emulation sinkhole (e.g., INetSim).
 - Respect software licensing agreements, anti-circumvention provisions, and local computer misuse laws when performing binary reverse engineering.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Reverse-Engineering-Binary-Disassembly&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Reverse-Engineering-Binary-Disassembly_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Reverse-Engineering-Binary-Disassembly_growth.svg">
+  </picture>
+</a>
